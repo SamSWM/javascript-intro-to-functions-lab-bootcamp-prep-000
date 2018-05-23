@@ -7,6 +7,6 @@ function whisper(string) {
 }
 "Hi".toLowerCase() // 'hi grandma!'
 function whisper(string) {
-  return string.toLowerCase()
+  console.log string.toLowerCase()
 }
 "Hi!".toLowerCase // 'I can't hear you!'
