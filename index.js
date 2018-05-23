@@ -7,5 +7,5 @@ function whisper(string) {
 }
 "Hi".toLowerCase() // 'hi grandma!'
 function logShout(string) {
-  return console.log() // 'Hello'
+  return console.log() // 'spy'
 }
