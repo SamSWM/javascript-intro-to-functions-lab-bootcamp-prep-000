@@ -13,7 +13,7 @@ function sayHiToGrandma(string) {
   // else  if(string === matches string.toUppercase()){
     return "YES INDDEED!"
   } 
-  // else if(string === matches string.I love you, Grandma.()}{
+  // else if(string === matches string.I love you, Grandma.()){
     return "I love you, too."
   }
   
