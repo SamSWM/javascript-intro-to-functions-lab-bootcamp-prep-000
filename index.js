@@ -9,4 +9,4 @@ function whisper(string) {
 function whisper(string) {
   return string.toLowerCase()
 }
-"I can't hear you!".toLowerCase() // 'hi grandma!'
+"I can't hear you!".toLowerCase() // 'sayHiToGrandma!'
