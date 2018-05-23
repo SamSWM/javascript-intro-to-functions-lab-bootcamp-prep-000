@@ -7,6 +7,19 @@ function whisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  return string.toLowerCase()
+  // if the string variable matches string.toLowerCase()
+  // return "I can't hear you"
+  
+  // if stirng matches string.toUppercase() 
+  // return "YES INDDEED"
+
+
+//if stirng mathces "I love you, Grandma."  
+// return "I love you, too."
+  
+  
+  
+  
+  
 }
 "I can't hear you!".toLowerCase() // 'hi grandma!'
