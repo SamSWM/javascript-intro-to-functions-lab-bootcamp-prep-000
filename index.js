@@ -9,4 +9,4 @@ function whisper(string) {
 function shout(string) {
   return string.toAllCaps() 
 }
-"HELLO".toallCaps // 'HELLo SPY'
+"HELLO".toallCaps // 'HELLO SPY'
