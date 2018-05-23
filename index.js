@@ -7,6 +7,6 @@ function whisper(string) {
 }
 "Hi".toLowerCase() // 'hi grandma!'
 function logShout(string) {
-  return string.allCaps() 
+  return string.toAllCaps() 
 }
 "HELLO".toallCaps // 'HELLo Spy'
