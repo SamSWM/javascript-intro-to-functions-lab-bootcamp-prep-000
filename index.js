@@ -29,5 +29,4 @@ function sayHiToGrandma(string) {
   
   
   
-}
-"I can't hear you!".toLowerCase() // 'hi grandma!'
+
