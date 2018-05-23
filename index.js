@@ -6,7 +6,4 @@ function whisper(string) {
   return string.toLowerCase() 
 }
 "Hi".toLowerCase() // 'hi grandma!'
-function shout(string) {
-  return string.toAllCaps() 
-}
-"HELLO".toallCaps // 'HELLO SPY'
+
